@@ -1,7 +1,7 @@
 {
   "version": "1.2.1",
   "game_url": "http://141.11.159.209:8080/game.zip",
-  "base_url": "https://raw.githubusercontent.com/polza0102-ux/skin/main/Skins/",
+  "base_url": "https://raw.githubusercontent.com/Whitecity02/skin/main/version.json",
   "files": [
     "version.json"
   ]
